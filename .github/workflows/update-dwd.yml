@@ -1,1 +1,57 @@
+name: Update DWD Weather JSONname: Update DWD Weather JSON * * * *"
+      timezone: "Europe/Berlin"
+
+permissions:
+  contents: write
+
+jobs:
+  build-weather-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and normalize DWD JSON
+        shell: bash
+        run: |
+          mkdir -p docs
+          curl -s "https://app-prod-ws.warnwetter.de/v30/stationOverviewExtended?stationIds=10637" > raw.json
+
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+
+          with open("raw.json", "r", encoding="utf-8") as f:
+              raw = json.load(f)
+
+          station = raw.get("10637", raw)
+
+          payload = {
+              "stationId": "10637",
+              "forecast1": station.get("forecast1"),
+              "forecast2": station.get("forecast2"),
+              "days": station.get("days", []),
+              "warnings": station.get("warnings", []),
+              "forecastStart": station.get("forecastStart"),
+              "threeHourSummaries": station.get("threeHourSummaries"),
+              "fetchedAt": datetime.now(timezone.utc).isoformat()
+          }
+
+          with open("docs/weather.json", "w", encoding="utf-8") as f:
+              json.dump(payload, f, ensure_ascii=False, indent=2)
+          PY
+
+      - name: Commit updated JSON
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/weather.json
+          git diff --cached --quiet || git commit -m "Update weather.json"
+          git push
+
+on:
+  workflow_dispatch:
+  schedule:
 
