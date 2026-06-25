@@ -1,4 +1,9 @@
-name: Update DWD Weather JSONname: Update DWD Weather JSON * * * *"
+name: Update DWD Weather JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
       timezone: "Europe/Berlin"
 
 permissions:
@@ -50,8 +55,3 @@ jobs:
           git add docs/weather.json
           git diff --cached --quiet || git commit -m "Update weather.json"
           git push
-
-on:
-  workflow_dispatch:
-  schedule:
-
