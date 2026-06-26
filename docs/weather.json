@@ -12,10 +12,10 @@
       266,
       258,
       260,
-      266,
-      278,
-      295,
-      313,
+      272,
+      283,
+      306,
+      316,
       334,
       351,
       367,
@@ -325,10 +325,6 @@
       0
     ],
     "sunshine": [
-      0,
-      30,
-      420,
-      590,
       600,
       600,
       600,
@@ -395,10 +391,6 @@
       0
     ],
     "dewPoint2m": [
-      176,
-      175,
-      173,
-      171,
       167,
       161,
       157,
@@ -463,10 +455,6 @@
       178
     ],
     "surfacePressure": [
-      10172,
-      10173,
-      10173,
-      10173,
       10171,
       10167,
       10163,
@@ -531,10 +519,6 @@
       10203
     ],
     "humidity": [
-      578,
-      535,
-      479,
-      427,
       370,
       324,
       289,
@@ -681,10 +665,10 @@
       0,
       0,
       0,
-      10,
-      10,
-      9,
-      10,
+      0,
+      0,
+      0,
+      0,
       9,
       9,
       9,
@@ -925,7 +909,7 @@
       1,
       1,
       1,
-      1,
+      2,
       1,
       1,
       1,
@@ -991,10 +975,6 @@
       2
     ],
     "icon1h": [
-      1,
-      1,
-      1,
-      1,
       1,
       1,
       1,
@@ -1548,7 +1528,7 @@
       "windSpeed": 93,
       "windGust": 352,
       "windDirection": 1800,
-      "sunshine": 8460,
+      "sunshine": 8620,
       "sunrise": 1782443868000,
       "sunset": 1782502766000,
       "moonrise": 1782493483000,
@@ -1772,16 +1752,16 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1782373680000.2391f6c3-5b49-4ec6-8724-43974ad6e5f9.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1782460800000.060437ae-b2f0-4d51-ae2e-bd28befbd1d0.MUL",
       "type": 8,
       "level": 51,
-      "start": 1782378000000,
-      "end": 1782493200000,
+      "start": 1782464400000,
+      "end": 1782579600000,
       "altitudeEnd": 200,
       "bn": false,
       "event": "EXTREME HITZE",
-      "description": "\nAm Donnerstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Freitag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 8. Tag der Warnsituation in Folge.\n",
-      "descriptionText": "\nAm Donnerstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Freitag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 8. Tag der Warnsituation in Folge.\n",
+      "description": "\nAm Freitag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Samstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 9. Tag der Warnsituation in Folge.\n",
+      "descriptionText": "\nAm Freitag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Samstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 9. Tag der Warnsituation in Folge.\n",
       "headline": "Amtliche WARNUNG vor extremer HITZE",
       "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
       "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
@@ -1789,5 +1769,5 @@
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-06-26T04:42:55.931255+00:00"
+  "fetchedAt": "2026-06-26T08:22:28.150570+00:00"
 }
