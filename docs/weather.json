@@ -15,8 +15,8 @@
       271,
       293,
       309,
-      315,
-      338,
+      343,
+      357,
       357,
       374,
       386,
@@ -325,8 +325,6 @@
       0
     ],
     "sunshine": [
-      470,
-      550,
       600,
       600,
       600,
@@ -392,8 +390,6 @@
       0
     ],
     "dewPoint2m": [
-      161,
-      156,
       148,
       143,
       136,
@@ -457,8 +453,6 @@
       164
     ],
     "surfacePressure": [
-      10174,
-      10172,
       10168,
       10164,
       10159,
@@ -522,8 +516,6 @@
       10232
     ],
     "humidity": [
-      396,
-      337,
       288,
       254,
       228,
@@ -672,8 +664,8 @@
       0,
       0,
       0,
-      12,
-      14,
+      0,
+      0,
       14,
       12,
       13,
@@ -914,7 +906,7 @@
       3,
       4,
       32767,
-      2,
+      1,
       1,
       1,
       1,
@@ -979,8 +971,6 @@
       3
     ],
     "icon1h": [
-      2,
-      1,
       1,
       1,
       2,
@@ -1757,16 +1747,16 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1782460800000.060437ae-b2f0-4d51-ae2e-bd28befbd1d0.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1782545760000.a84866f4-ad69-4f7b-9b25-4beea1aaed68.MUL",
       "type": 8,
       "level": 51,
-      "start": 1782464400000,
-      "end": 1782579600000,
+      "start": 1782550800000,
+      "end": 1782666000000,
       "altitudeEnd": 200,
       "bn": false,
       "event": "EXTREME HITZE",
-      "description": "\nAm Freitag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Samstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 9. Tag der Warnsituation in Folge.\n",
-      "descriptionText": "\nAm Freitag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Samstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 9. Tag der Warnsituation in Folge.\n",
+      "description": "\nAm Samstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Sonntag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 10. Tag der Warnsituation in Folge.\n",
+      "descriptionText": "\nAm Samstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Sonntag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 10. Tag der Warnsituation in Folge.\n",
       "headline": "Amtliche WARNUNG vor extremer HITZE",
       "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
       "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
@@ -1774,5 +1764,5 @@
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-06-27T07:36:10.359781+00:00"
+  "fetchedAt": "2026-06-27T09:51:31.434844+00:00"
 }
