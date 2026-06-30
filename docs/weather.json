@@ -25,6 +25,7 @@
       305,
       311,
       303,
+      295,
       275,
       263,
       253,
@@ -275,6 +276,7 @@
       0,
       0,
       0,
+      0,
       3,
       4,
       3,
@@ -325,8 +327,6 @@
       0
     ],
     "sunshine": [
-      340,
-      320,
       230,
       150,
       70,
@@ -569,6 +569,7 @@
       true,
       true,
       true,
+      true,
       false,
       false,
       false,
@@ -622,6 +623,7 @@
     ],
     "cloudCoverTotal": [],
     "temperatureStd": [
+      0,
       0,
       0,
       0,
@@ -883,6 +885,7 @@
       3,
       3,
       1,
+      4,
       4,
       3,
       3,
@@ -1483,7 +1486,7 @@
       "windSpeed": 93,
       "windGust": 333,
       "windDirection": 310,
-      "sunshine": 5390,
+      "sunshine": 5190,
       "sunrise": 1782789593000,
       "sunset": 1782848331000,
       "moonrise": 1782851541000,
@@ -1708,5 +1711,5 @@
   "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-06-30T17:17:39.013448+00:00"
+  "fetchedAt": "2026-06-30T19:19:59.220459+00:00"
 }
