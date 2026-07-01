@@ -6,7 +6,7 @@
     "timeStep": 3600000,
     "temperature": [
       238,
-      226,
+      231,
       219,
       212,
       206,
@@ -332,7 +332,6 @@
       0,
       0,
       0,
-      0,
       20,
       100,
       210,
@@ -401,7 +400,6 @@
       0
     ],
     "dewPoint2m": [
-      162,
       163,
       162,
       160,
@@ -476,7 +474,6 @@
     ],
     "surfacePressure": [
       10185,
-      10185,
       10186,
       10185,
       10185,
@@ -549,7 +546,6 @@
       10271
     ],
     "humidity": [
-      672,
       705,
       732,
       749,
@@ -699,7 +695,7 @@
     "cloudCoverTotal": [],
     "temperatureStd": [
       0,
-      13,
+      0,
       14,
       15,
       14,
@@ -941,7 +937,7 @@
       21
     ],
     "icon": [
-      4,
+      8,
       7,
       7,
       7,
@@ -1015,7 +1011,6 @@
       2
     ],
     "icon1h": [
-      4,
       7,
       7,
       7,
@@ -1800,8 +1795,23 @@
       "icon2": null
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1782864480000.b584bad7-c418-4ccf-a05c-b5a58c039ed8.MUL",
+      "type": 0,
+      "level": 3,
+      "start": 1782864480000,
+      "end": 1782871200000,
+      "bn": false,
+      "event": "STARKES GEWITTER",
+      "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Starkregen mit Niederschlagsmengen um 25 l/m² pro Stunde sowie Windböen mit Geschwindigkeiten bis 60 km/h (17 m/s, 33 kn, Bft 7) und Hagel.",
+      "descriptionText": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Starkregen mit Niederschlagsmengen um 25 l/m² pro Stunde sowie Windböen mit Geschwindigkeiten bis 60 km/h (17 m/s, 33 kn, Bft 7) und Hagel.",
+      "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "instruction": "Gefahr durch: Blitzschlag (Lebensgefahr!); umherfliegende leichte Gegenstände; vereinzelte, rasche Überflutungen von Straßen/Unterführungen; Aquaplaning; Hagelschlag. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; lose Gegenstände sichern; z.B. Zelte und Abdeckungen befestigen; Verhalten im Straßenverkehr anpassen; überflutete und gefährdete Abschnitte (wie Unterführungen) meiden",
+      "instructionHtml": "<b>Gefahr durch:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>umherfliegende leichte Gegenstände</li><li>vereinzelte, rasche Überflutungen von Straßen/Unterführungen</li><li>Aquaplaning</li><li>Hagelschlag</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>lose Gegenstände sichern</li><li>z.B. Zelte und Abdeckungen befestigen</li><li>Verhalten im Straßenverkehr anpassen</li><li>überflutete und gefährdete Abschnitte (wie Unterführungen) meiden</li></ul>"
+    }
+  ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-06-30T22:50:39.030623+00:00"
+  "fetchedAt": "2026-07-01T00:09:54.428402+00:00"
 }
