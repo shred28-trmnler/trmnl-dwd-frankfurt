@@ -24,7 +24,7 @@
       307,
       309,
       310,
-      287,
+      283,
       273,
       262,
       250,
@@ -269,7 +269,7 @@
       8,
       0,
       0,
-      2,
+      0,
       0,
       0,
       0,
@@ -325,7 +325,6 @@
       0
     ],
     "sunshine": [
-      400,
       220,
       290,
       300,
@@ -383,7 +382,6 @@
       0
     ],
     "dewPoint2m": [
-      143,
       145,
       145,
       150,
@@ -439,7 +437,6 @@
       128
     ],
     "surfacePressure": [
-      10150,
       10156,
       10162,
       10168,
@@ -495,7 +492,6 @@
       10148
     ],
     "humidity": [
-      414,
       455,
       486,
       538,
@@ -645,7 +641,7 @@
       0,
       0,
       0,
-      18,
+      0,
       19,
       20,
       17,
@@ -887,7 +883,7 @@
       32767,
       32767,
       4,
-      18,
+      32767,
       2,
       2,
       2,
@@ -943,7 +939,6 @@
       3
     ],
     "icon1h": [
-      18,
       2,
       2,
       2,
@@ -1484,11 +1479,11 @@
       "dayDate": "2026-07-14",
       "temperatureMin": 222,
       "temperatureMax": 324,
-      "precipitation": 10,
+      "precipitation": 8,
       "windSpeed": 130,
       "windGust": 445,
       "windDirection": 320,
-      "sunshine": 5910,
+      "sunshine": 5620,
       "sunrise": 1783999918000,
       "sunset": 1784057451000,
       "moonrise": 1783997836000,
@@ -1710,24 +1705,8 @@
       "icon2": null
     }
   ],
-  "warnings": [
-    {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1784013900000.6a40a4e7-988e-444d-960c-5c27d8e4f708.MUL",
-      "type": 8,
-      "level": 50,
-      "start": 1784019600000,
-      "end": 1784048400000,
-      "altitudeEnd": 200,
-      "bn": false,
-      "event": "STARKE HITZE",
-      "description": "\nAm Dienstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 2. Tag der Warnsituation in Folge.\n",
-      "descriptionText": "\nAm Dienstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 2. Tag der Warnsituation in Folge.\n",
-      "headline": "Amtliche WARNUNG vor HITZE",
-      "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
-      "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
-    }
-  ],
+  "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-07-14T16:46:08.951816+00:00"
+  "fetchedAt": "2026-07-14T18:06:48.386920+00:00"
 }
