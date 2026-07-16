@@ -24,7 +24,7 @@
       321,
       319,
       307,
-      301,
+      266,
       286,
       269,
       249,
@@ -269,7 +269,7 @@
       0,
       0,
       0,
-      0,
+      1,
       0,
       0,
       0,
@@ -325,7 +325,6 @@
       0
     ],
     "sunshine": [
-      430,
       390,
       320,
       220,
@@ -383,7 +382,6 @@
       0
     ],
     "dewPoint2m": [
-      99,
       114,
       125,
       136,
@@ -440,7 +438,6 @@
     ],
     "surfacePressure": [
       10141,
-      10141,
       10139,
       10140,
       10142,
@@ -495,7 +492,6 @@
       10153
     ],
     "humidity": [
-      286,
       345,
       409,
       495,
@@ -645,7 +641,7 @@
       0,
       0,
       0,
-      15,
+      0,
       16,
       17,
       16,
@@ -887,7 +883,7 @@
       4,
       3,
       32767,
-      3,
+      8,
       3,
       3,
       3,
@@ -943,7 +939,6 @@
       3
     ],
     "icon1h": [
-      3,
       3,
       3,
       3,
@@ -1484,11 +1479,11 @@
       "dayDate": "2026-07-16",
       "temperatureMin": 196,
       "temperatureMax": 321,
-      "precipitation": 0,
+      "precipitation": 1,
       "windSpeed": 74,
       "windGust": 315,
       "windDirection": 1570,
-      "sunshine": 6660,
+      "sunshine": 6340,
       "sunrise": 1784172852000,
       "sunset": 1784230139000,
       "moonrise": 1784181462000,
@@ -1710,23 +1705,8 @@
       "icon2": null
     }
   ],
-  "warnings": [
-    {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1784216940000.1cb0fd84-b701-47db-bb62-7ec1266c6b7a.MUL",
-      "type": 0,
-      "level": 3,
-      "start": 1784216940000,
-      "end": 1784221200000,
-      "bn": false,
-      "event": "STARKES GEWITTER",
-      "description": "Es treten Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten zwischen 65 km/h (18 m/s, 35 kn, Bft 8) und 75 km/h (21 m/s, 41 kn, Bft 9) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
-      "descriptionText": "Es treten Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten zwischen 65 km/h (18 m/s, 35 kn, Bft 8) und 75 km/h (21 m/s, 41 kn, Bft 9) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
-      "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
-      "instruction": "Gefahr durch: Blitzschlag (Lebensgefahr!); einzelne herabstürzende Äste; umherfliegende Gegenstände; vereinzelte, rasche Überflutungen von Straßen/Unterführungen; Aquaplaning; Hagelschlag. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; frei stehende Objekte sichern (z.B. Leinwände und Möbel); z.B. Zelte und Abdeckungen befestigen; im Freien auf herabfallende Gegenstände (z.B. Äste) achten; Verhalten im Straßenverkehr anpassen; überflutete und gefährdete Abschnitte (wie Unterführungen) meiden",
-      "instructionHtml": "<b>Gefahr durch:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>einzelne herabstürzende Äste</li><li>umherfliegende Gegenstände</li><li>vereinzelte, rasche Überflutungen von Straßen/Unterführungen</li><li>Aquaplaning</li><li>Hagelschlag</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>frei stehende Objekte sichern (z.B. Leinwände und Möbel)</li><li>z.B. Zelte und Abdeckungen befestigen</li><li>im Freien auf herabfallende Gegenstände (z.B. Äste) achten</li><li>Verhalten im Straßenverkehr anpassen</li><li>überflutete und gefährdete Abschnitte (wie Unterführungen) meiden</li></ul>"
-    }
-  ],
+  "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-07-16T16:42:14.609297+00:00"
+  "fetchedAt": "2026-07-16T17:54:14.435012+00:00"
 }
