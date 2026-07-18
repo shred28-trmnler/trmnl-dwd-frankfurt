@@ -22,7 +22,7 @@
       268,
       267,
       276,
-      263,
+      273,
       257,
       246,
       232,
@@ -325,7 +325,6 @@
       0
     ],
     "sunshine": [
-      430,
       410,
       380,
       330,
@@ -385,7 +384,6 @@
       0
     ],
     "dewPoint2m": [
-      111,
       113,
       119,
       125,
@@ -443,7 +441,6 @@
       74
     ],
     "surfacePressure": [
-      10134,
       10132,
       10132,
       10134,
@@ -501,7 +498,6 @@
       10234
     ],
     "humidity": [
-      386,
       406,
       451,
       510,
@@ -651,7 +647,7 @@
       0,
       0,
       0,
-      14,
+      0,
       14,
       15,
       15,
@@ -893,7 +889,7 @@
       1,
       2,
       32767,
-      2,
+      4,
       2,
       3,
       3,
@@ -951,7 +947,6 @@
       2
     ],
     "icon1h": [
-      2,
       2,
       3,
       3,
@@ -1498,7 +1493,7 @@
       "windSpeed": 167,
       "windGust": 445,
       "windDirection": 2760,
-      "sunshine": 6390,
+      "sunshine": 6270,
       "sunrise": 1784345791000,
       "sunset": 1784402816000,
       "moonrise": 1784364236000,
@@ -1720,8 +1715,23 @@
       "icon2": null
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1784387940000.27805835-68a6-4589-9523-91cabc0afa4d.MUL",
+      "type": 0,
+      "level": 3,
+      "start": 1784387940000,
+      "end": 1784390400000,
+      "bn": false,
+      "event": "STARKES GEWITTER",
+      "description": "Es treten Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 65 km/h (18 m/s, 35 kn, Bft 8) sowie Starkregen mit Niederschlagsmengen bis 20 l/m² pro Stunde.",
+      "descriptionText": "Es treten Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 65 km/h (18 m/s, 35 kn, Bft 8) sowie Starkregen mit Niederschlagsmengen bis 20 l/m² pro Stunde.",
+      "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "instruction": "Gefahr durch: Blitzschlag (Lebensgefahr!); einzelne herabstürzende Äste; umherfliegende Gegenstände; vereinzelte, rasche Überflutungen von Straßen/Unterführungen; Aquaplaning. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; frei stehende Objekte sichern (z.B. Leinwände und Möbel); z.B. Zelte und Abdeckungen befestigen; im Freien auf herabfallende Gegenstände (z.B. Äste) achten; Verhalten im Straßenverkehr anpassen; überflutete und gefährdete Abschnitte (wie Unterführungen) meiden",
+      "instructionHtml": "<b>Gefahr durch:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>einzelne herabstürzende Äste</li><li>umherfliegende Gegenstände</li><li>vereinzelte, rasche Überflutungen von Straßen/Unterführungen</li><li>Aquaplaning</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>frei stehende Objekte sichern (z.B. Leinwände und Möbel)</li><li>z.B. Zelte und Abdeckungen befestigen</li><li>im Freien auf herabfallende Gegenstände (z.B. Äste) achten</li><li>Verhalten im Straßenverkehr anpassen</li><li>überflutete und gefährdete Abschnitte (wie Unterführungen) meiden</li></ul>"
+    }
+  ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-07-18T14:34:36.356138+00:00"
+  "fetchedAt": "2026-07-18T15:38:09.316584+00:00"
 }
