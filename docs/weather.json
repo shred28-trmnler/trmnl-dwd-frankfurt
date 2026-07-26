@@ -12,9 +12,9 @@
       150,
       141,
       144,
-      168,
-      197,
-      221,
+      157,
+      187,
+      209,
       242,
       253,
       264,
@@ -325,9 +325,6 @@
       0
     ],
     "sunshine": [
-      0,
-      10,
-      240,
       420,
       510,
       500,
@@ -395,9 +392,6 @@
       0
     ],
     "dewPoint2m": [
-      105,
-      103,
-      102,
       97,
       89,
       82,
@@ -463,9 +457,6 @@
       120
     ],
     "surfacePressure": [
-      10066,
-      10066,
-      10064,
       10063,
       10062,
       10060,
@@ -531,9 +522,6 @@
       10193
     ],
     "humidity": [
-      664,
-      546,
-      468,
       399,
       354,
       316,
@@ -681,9 +669,9 @@
       0,
       0,
       0,
-      12,
-      9,
-      9,
+      0,
+      0,
+      0,
       10,
       13,
       12,
@@ -923,9 +911,9 @@
       4,
       1,
       3,
-      1,
-      1,
-      2,
+      4,
+      3,
+      4,
       2,
       2,
       2,
@@ -991,9 +979,6 @@
       1
     ],
     "icon1h": [
-      1,
-      1,
-      2,
       2,
       2,
       2,
@@ -1548,7 +1533,7 @@
       "windSpeed": 333,
       "windGust": 630,
       "windDirection": 2450,
-      "sunshine": 5870,
+      "sunshine": 5780,
       "sunrise": 1785037595000,
       "sunset": 1785093434000,
       "moonrise": 1785088462000,
@@ -1770,8 +1755,23 @@
       "icon2": null
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1785050580000.8abd9afc-7f4a-4bda-af83-d31f4c1b2eeb.MUL",
+      "type": 1,
+      "level": 2,
+      "start": 1785063600000,
+      "end": 1785085200000,
+      "bn": false,
+      "event": "WINDBÖEN",
+      "description": "Es treten Windböen mit Geschwindigkeiten um 55 km/h (15 m/s, 30 kn, Bft 7) aus westlicher Richtung auf.",
+      "descriptionText": "Es treten Windböen mit Geschwindigkeiten um 55 km/h (15 m/s, 30 kn, Bft 7) aus westlicher Richtung auf.",
+      "headline": "Amtliche WARNUNG vor WINDBÖEN",
+      "instruction": "Hinweis auf: umherfliegende leichte Gegenstände. \nHandlungsempfehlungen: \nlose Gegenstände sichern; z.B. Zelte und Abdeckungen befestigen",
+      "instructionHtml": "<b>Hinweis auf:</b><ul><li>umherfliegende leichte Gegenstände</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>lose Gegenstände sichern</li><li>z.B. Zelte und Abdeckungen befestigen</li></ul>"
+    }
+  ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-07-26T04:59:30.918814+00:00"
+  "fetchedAt": "2026-07-26T07:42:40.211005+00:00"
 }
