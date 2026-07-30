@@ -14,9 +14,9 @@
       164,
       183,
       241,
-      255,
+      259,
       284,
-      312,
+      318,
       334,
       354,
       359,
@@ -325,9 +325,6 @@
       0
     ],
     "sunshine": [
-      280,
-      480,
-      540,
       600,
       590,
       570,
@@ -393,9 +390,6 @@
       0
     ],
     "dewPoint2m": [
-      127,
-      124,
-      121,
       114,
       106,
       100,
@@ -459,9 +453,6 @@
       138
     ],
     "surfacePressure": [
-      10163,
-      10161,
-      10158,
       10151,
       10145,
       10138,
@@ -525,9 +516,6 @@
       10170
     ],
     "humidity": [
-      450,
-      372,
-      311,
       262,
       222,
       208,
@@ -675,9 +663,9 @@
       0,
       0,
       0,
-      10,
-      12,
-      15,
+      0,
+      0,
+      0,
       15,
       14,
       15,
@@ -983,9 +971,6 @@
       2
     ],
     "icon1h": [
-      1,
-      1,
-      1,
       1,
       1,
       1,
@@ -1538,7 +1523,7 @@
       "windSpeed": 222,
       "windGust": 555,
       "windDirection": 2230,
-      "sunshine": 6490,
+      "sunshine": 6560,
       "sunrise": 1785383518000,
       "sunset": 1785438691000,
       "moonrise": 1785440632000,
@@ -1762,7 +1747,7 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1785343860000.f13f53b6-ada5-42d9-ba14-980ea7c3bcad.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1785396720000.d6679d1b-3793-4fe2-ab6f-fbbd99539c88.MUL",
       "type": 1,
       "level": 3,
       "start": 1785412800000,
@@ -1776,16 +1761,16 @@
       "instructionHtml": "<b>Gefahr durch:</b><ul><li>einzelne herabstürzende Äste</li><li>umherfliegende Gegenstände</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>frei stehende Objekte sichern (z.B. Leinwände und Möbel)</li><li>z.B. Zelte und Abdeckungen befestigen</li><li>im Freien auf herabfallende Gegenstände (z.B. Äste) achten</li></ul>"
     },
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1785309720000.68cec425-b481-4eb4-b976-580bf440ce6e.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1785396600000.30de7a53-2aa5-44b8-93e4-447b7423fe39.MUL",
       "type": 8,
       "level": 50,
-      "start": 1785315600000,
-      "end": 1785430800000,
+      "start": 1785402000000,
+      "end": 1785517200000,
       "altitudeEnd": 200,
       "bn": false,
       "event": "STARKE HITZE",
-      "description": "\nAm Mittwoch wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Donnerstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
-      "descriptionText": "\nAm Mittwoch wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Donnerstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "description": "\nAm Donnerstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 2. Tag der Warnsituation in Folge.\n",
+      "descriptionText": "\nAm Donnerstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 2. Tag der Warnsituation in Folge.\n",
       "headline": "Amtliche WARNUNG vor HITZE",
       "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
       "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
@@ -1793,5 +1778,5 @@
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-07-30T07:14:00.058112+00:00"
+  "fetchedAt": "2026-07-30T09:45:17.829956+00:00"
 }
