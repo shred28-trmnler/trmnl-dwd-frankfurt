@@ -12,9 +12,9 @@
       186,
       192,
       196,
-      203,
-      219,
-      236,
+      196,
+      213,
+      235,
       255,
       274,
       291,
@@ -325,9 +325,6 @@
       0
     ],
     "sunshine": [
-      0,
-      0,
-      100,
       250,
       350,
       440,
@@ -395,9 +392,6 @@
       0
     ],
     "dewPoint2m": [
-      153,
-      153,
-      152,
       150,
       147,
       146,
@@ -463,9 +457,6 @@
       135
     ],
     "surfacePressure": [
-      10159,
-      10160,
-      10158,
       10156,
       10153,
       10148,
@@ -531,9 +522,6 @@
       10132
     ],
     "humidity": [
-      730,
-      662,
-      593,
       523,
       458,
       413,
@@ -681,9 +669,9 @@
       0,
       0,
       0,
-      12,
-      9,
-      10,
+      0,
+      0,
+      0,
       12,
       11,
       11,
@@ -923,9 +911,9 @@
       4,
       4,
       4,
+      4,
+      4,
       3,
-      2,
-      2,
       2,
       2,
       2,
@@ -991,9 +979,6 @@
       2
     ],
     "icon1h": [
-      3,
-      2,
-      2,
       2,
       2,
       2,
@@ -1548,7 +1533,7 @@
       "windSpeed": 148,
       "windGust": 463,
       "windDirection": 2440,
-      "sunshine": 5430,
+      "sunshine": 5360,
       "sunrise": 1785470001000,
       "sunset": 1785525000000,
       "moonrise": 1785527911000,
@@ -1772,16 +1757,16 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1785396600000.30de7a53-2aa5-44b8-93e4-447b7423fe39.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1785482460000.492e7421-122e-46a3-b444-efed171a1862.MUL",
       "type": 8,
       "level": 50,
-      "start": 1785402000000,
+      "start": 1785488400000,
       "end": 1785517200000,
       "altitudeEnd": 200,
       "bn": false,
       "event": "STARKE HITZE",
-      "description": "\nAm Donnerstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 2. Tag der Warnsituation in Folge.\n",
-      "descriptionText": "\nAm Donnerstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 2. Tag der Warnsituation in Folge.\n",
+      "description": "\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 3. Tag der Warnsituation in Folge.\n",
+      "descriptionText": "\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 3. Tag der Warnsituation in Folge.\n",
       "headline": "Amtliche WARNUNG vor HITZE",
       "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
       "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
@@ -1789,5 +1774,5 @@
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-07-31T04:42:04.676359+00:00"
+  "fetchedAt": "2026-07-31T07:37:17.193245+00:00"
 }
