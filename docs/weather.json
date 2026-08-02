@@ -14,8 +14,8 @@
       181,
       183,
       185,
-      209,
-      225,
+      199,
+      223,
       241,
       258,
       273,
@@ -325,8 +325,6 @@
       0
     ],
     "sunshine": [
-      130,
-      270,
       390,
       470,
       510,
@@ -393,8 +391,6 @@
       0
     ],
     "dewPoint2m": [
-      108,
-      109,
       107,
       103,
       98,
@@ -459,8 +455,6 @@
       184
     ],
     "surfacePressure": [
-      10187,
-      10186,
       10184,
       10178,
       10173,
@@ -525,8 +519,6 @@
       10142
     ],
     "humidity": [
-      524,
-      479,
       429,
       377,
       334,
@@ -675,8 +667,8 @@
       0,
       0,
       0,
-      9,
-      9,
+      0,
+      0,
       9,
       9,
       9,
@@ -917,8 +909,8 @@
       4,
       4,
       4,
-      2,
-      2,
+      1,
+      1,
       2,
       2,
       2,
@@ -983,8 +975,6 @@
       2
     ],
     "icon1h": [
-      2,
-      2,
       2,
       2,
       2,
@@ -1538,7 +1528,7 @@
       "windSpeed": 130,
       "windGust": 352,
       "windDirection": 720,
-      "sunshine": 6580,
+      "sunshine": 6810,
       "sunrise": 1785642967000,
       "sunset": 1785697614000,
       "moonrise": 1785702279000,
@@ -1760,8 +1750,24 @@
       "icon2": null
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1785655320000.993a221c-dae5-416f-a0bb-f8c5054105cb.MUL",
+      "type": 8,
+      "level": 50,
+      "start": 1785747600000,
+      "end": 1785776400000,
+      "altitudeEnd": 200,
+      "bn": false,
+      "event": "STARKE HITZE",
+      "description": "\nAm Montag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "descriptionText": "\nAm Montag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "headline": "Amtliche WARNUNG vor HITZE",
+      "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
+      "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
+    }
+  ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-02T06:40:48.162378+00:00"
+  "fetchedAt": "2026-08-02T09:00:22.935638+00:00"
 }
