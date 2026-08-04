@@ -13,9 +13,9 @@
       217,
       221,
       216,
-      241,
-      262,
-      286,
+      219,
+      244,
+      266,
       305,
       324,
       338,
@@ -325,9 +325,6 @@
       0
     ],
     "sunshine": [
-      0,
-      60,
-      220,
       290,
       360,
       440,
@@ -394,9 +391,6 @@
       0
     ],
     "dewPoint2m": [
-      183,
-      178,
-      172,
       167,
       162,
       157,
@@ -461,9 +455,6 @@
       77
     ],
     "surfacePressure": [
-      10119,
-      10119,
-      10120,
       10120,
       10117,
       10115,
@@ -528,9 +519,6 @@
       10218
     ],
     "humidity": [
-      701,
-      599,
-      501,
       435,
       379,
       339,
@@ -678,9 +666,9 @@
       0,
       0,
       0,
-      13,
-      12,
-      12,
+      0,
+      0,
+      0,
       13,
       13,
       13,
@@ -920,9 +908,9 @@
       8,
       8,
       4,
-      3,
-      2,
-      2,
+      4,
+      4,
+      4,
       2,
       2,
       2,
@@ -987,9 +975,6 @@
       2
     ],
     "icon1h": [
-      3,
-      2,
-      2,
       2,
       2,
       2,
@@ -1543,7 +1528,7 @@
       "windSpeed": 148,
       "windGust": 463,
       "windDirection": 2300,
-      "sunshine": 5310,
+      "sunshine": 5480,
       "sunrise": 1785815936000,
       "sunset": 1785870220000,
       "moonrise": 1785876840000,
@@ -1767,22 +1752,7 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1785741840000.a8f4da00-fa0f-4114-bd01-f83381ff5bd9.MUL",
-      "type": 8,
-      "level": 50,
-      "start": 1785747600000,
-      "end": 1785834000000,
-      "altitudeEnd": 200,
-      "bn": false,
-      "event": "STARKE HITZE",
-      "description": "\nAm Montag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Dienstag wird eine starke Wärmebelastung erwartet.\nDie Hitze wird alte und pflegebedürftige Menschen extrem belasten. Mit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
-      "descriptionText": "\nAm Montag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Dienstag wird eine starke Wärmebelastung erwartet.\nDie Hitze wird alte und pflegebedürftige Menschen extrem belasten. Mit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
-      "headline": "Amtliche WARNUNG vor HITZE",
-      "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
-      "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
-    },
-    {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1785741840000.abfe4b52-ac85-4f6e-8ff4-a6279f248b8d.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1785828840000.11bc72d2-4179-425e-a343-77d2160682eb.MUL",
       "type": 8,
       "level": 51,
       "start": 1785834000000,
@@ -1790,14 +1760,29 @@
       "altitudeEnd": 200,
       "bn": false,
       "event": "EXTREME HITZE",
-      "description": "\nAm Dienstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
-      "descriptionText": "\nAm Dienstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "description": "\nAm Dienstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 2. Tag der Warnsituation in Folge.\n",
+      "descriptionText": "\nAm Dienstag wird eine extreme Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 2. Tag der Warnsituation in Folge.\n",
       "headline": "Amtliche WARNUNG vor extremer HITZE",
+      "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
+      "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
+    },
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1785828840000.aa10631c-3776-46a1-8a7c-0628bd5a7683.MUL",
+      "type": 8,
+      "level": 50,
+      "start": 1785862800000,
+      "end": 1785949200000,
+      "altitudeEnd": 200,
+      "bn": false,
+      "event": "STARKE HITZE",
+      "description": "\nAm Dienstag wird eine starke Wärmebelastung erwartet.\nDie Hitze wird alte und pflegebedürftige Menschen extrem belasten. Mit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Mittwoch wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "descriptionText": "\nAm Dienstag wird eine starke Wärmebelastung erwartet.\nDie Hitze wird alte und pflegebedürftige Menschen extrem belasten. Mit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Mittwoch wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "headline": "Amtliche WARNUNG vor HITZE",
       "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
       "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
     }
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-04T05:50:53.874822+00:00"
+  "fetchedAt": "2026-08-04T08:42:18.097074+00:00"
 }
