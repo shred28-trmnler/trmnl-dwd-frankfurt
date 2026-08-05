@@ -14,8 +14,8 @@
       212,
       215,
       235,
-      250,
-      270,
+      252,
+      276,
       286,
       297,
       309,
@@ -325,8 +325,6 @@
       0
     ],
     "sunshine": [
-      90,
-      250,
       360,
       430,
       440,
@@ -393,8 +391,6 @@
       0
     ],
     "dewPoint2m": [
-      182,
-      176,
       169,
       164,
       161,
@@ -459,8 +455,6 @@
       74
     ],
     "surfacePressure": [
-      10153,
-      10154,
       10155,
       10154,
       10151,
@@ -525,8 +519,6 @@
       10200
     ],
     "humidity": [
-      660,
-      565,
       492,
       447,
       410,
@@ -675,8 +667,8 @@
       0,
       0,
       0,
-      11,
-      11,
+      0,
+      0,
       10,
       10,
       11,
@@ -916,9 +908,9 @@
       8,
       4,
       4,
-      32767,
-      2,
-      2,
+      1,
+      1,
+      1,
       2,
       2,
       2,
@@ -983,8 +975,6 @@
       1
     ],
     "icon1h": [
-      2,
-      2,
       2,
       2,
       2,
@@ -1538,7 +1528,7 @@
       "windSpeed": 241,
       "windGust": 518,
       "windDirection": 2330,
-      "sunshine": 5650,
+      "sunshine": 6010,
       "sunrise": 1785902421000,
       "sunset": 1785956521000,
       "moonrise": 1785964435000,
@@ -1762,16 +1752,16 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1785828840000.aa10631c-3776-46a1-8a7c-0628bd5a7683.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1785914460000.8debff49-779f-4d0d-aea5-01f412120e0f.MUL",
       "type": 8,
       "level": 50,
-      "start": 1785862800000,
+      "start": 1785920400000,
       "end": 1785949200000,
       "altitudeEnd": 200,
       "bn": false,
       "event": "STARKE HITZE",
-      "description": "\nAm Dienstag wird eine starke Wärmebelastung erwartet.\nDie Hitze wird alte und pflegebedürftige Menschen extrem belasten. Mit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Mittwoch wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
-      "descriptionText": "\nAm Dienstag wird eine starke Wärmebelastung erwartet.\nDie Hitze wird alte und pflegebedürftige Menschen extrem belasten. Mit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Mittwoch wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "description": "\nAm Mittwoch wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 3. Tag der Warnsituation in Folge.\n",
+      "descriptionText": "\nAm Mittwoch wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 3. Tag der Warnsituation in Folge.\n",
       "headline": "Amtliche WARNUNG vor HITZE",
       "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
       "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
@@ -1779,5 +1769,5 @@
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-05T06:13:56.100955+00:00"
+  "fetchedAt": "2026-08-05T09:10:20.822178+00:00"
 }
