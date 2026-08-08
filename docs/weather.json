@@ -1755,8 +1755,24 @@
       "icon2": null
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1786173600000.e8624d3a-2b0a-4d95-92ff-74fef330267f.MUL",
+      "type": 8,
+      "level": 50,
+      "start": 1786266000000,
+      "end": 1786294800000,
+      "altitudeEnd": 200,
+      "bn": false,
+      "event": "STARKE HITZE",
+      "description": "\nAm Sonntag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "descriptionText": "\nAm Sonntag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "headline": "Amtliche WARNUNG vor HITZE",
+      "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
+      "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
+    }
+  ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-08T07:16:20.932266+00:00"
+  "fetchedAt": "2026-08-08T08:07:11.093817+00:00"
 }
