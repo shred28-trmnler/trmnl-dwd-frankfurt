@@ -13,8 +13,8 @@
       196,
       192,
       190,
-      206,
-      226,
+      204,
+      221,
       245,
       267,
       285,
@@ -325,8 +325,6 @@
       0
     ],
     "sunshine": [
-      0,
-      230,
       460,
       590,
       600,
@@ -394,8 +392,6 @@
       0
     ],
     "dewPoint2m": [
-      49,
-      53,
       53,
       54,
       52,
@@ -461,8 +457,6 @@
       127
     ],
     "surfacePressure": [
-      10248,
-      10248,
       10246,
       10243,
       10238,
@@ -528,8 +522,6 @@
       10128
     ],
     "humidity": [
-      357,
-      325,
       290,
       256,
       228,
@@ -678,8 +670,8 @@
       0,
       0,
       0,
-      9,
-      9,
+      0,
+      0,
       9,
       9,
       9,
@@ -987,8 +979,6 @@
       2
     ],
     "icon1h": [
-      1,
-      1,
       1,
       1,
       1,
@@ -1543,7 +1533,7 @@
       "windSpeed": 111,
       "windGust": 315,
       "windDirection": 920,
-      "sunshine": 8040,
+      "sunshine": 8190,
       "sunrise": 1786594329000,
       "sunset": 1786646885000,
       "moonrise": 1786596795000,
@@ -1765,8 +1755,24 @@
       "icon2": null
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1786605720000.acca81b1-b236-4e2d-a947-d103dcec3a76.MUL",
+      "type": 8,
+      "level": 50,
+      "start": 1786698000000,
+      "end": 1786726800000,
+      "altitudeEnd": 200,
+      "bn": false,
+      "event": "STARKE HITZE",
+      "description": "\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "descriptionText": "\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "headline": "Amtliche WARNUNG vor HITZE",
+      "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
+      "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
+    }
+  ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-13T06:06:01.366580+00:00"
+  "fetchedAt": "2026-08-13T07:53:49.968740+00:00"
 }
