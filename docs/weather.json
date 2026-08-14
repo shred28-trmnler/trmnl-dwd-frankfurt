@@ -13,8 +13,8 @@
       216,
       209,
       206,
-      230,
-      250,
+      227,
+      244,
       272,
       295,
       313,
@@ -325,8 +325,6 @@
       0
     ],
     "sunshine": [
-      0,
-      220,
       460,
       580,
       600,
@@ -394,8 +392,6 @@
       0
     ],
     "dewPoint2m": [
-      60,
-      64,
       65,
       64,
       60,
@@ -461,8 +457,6 @@
       120
     ],
     "surfacePressure": [
-      10194,
-      10194,
       10192,
       10188,
       10181,
@@ -528,8 +522,6 @@
       10161
     ],
     "humidity": [
-      333,
-      304,
       269,
       233,
       205,
@@ -678,8 +670,8 @@
       0,
       0,
       0,
-      10,
-      9,
+      0,
+      0,
       9,
       9,
       9,
@@ -987,8 +979,6 @@
       2
     ],
     "icon1h": [
-      1,
-      1,
       1,
       1,
       1,
@@ -1543,7 +1533,7 @@
       "windSpeed": 74,
       "windGust": 296,
       "windDirection": 1640,
-      "sunshine": 7880,
+      "sunshine": 8040,
       "sunrise": 1786680818000,
       "sunset": 1786733174000,
       "moonrise": 1786688232000,
@@ -1767,16 +1757,16 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1786605720000.acca81b1-b236-4e2d-a947-d103dcec3a76.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1786692480000.3a1a0352-aa4e-4c5d-b965-3e05378414fa.MUL",
       "type": 8,
       "level": 50,
       "start": 1786698000000,
-      "end": 1786726800000,
+      "end": 1786813200000,
       "altitudeEnd": 200,
       "bn": false,
       "event": "STARKE HITZE",
-      "description": "\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
-      "descriptionText": "\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "description": "\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Samstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
+      "descriptionText": "\nAm Freitag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Samstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\n",
       "headline": "Amtliche WARNUNG vor HITZE",
       "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
       "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
@@ -1784,5 +1774,5 @@
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-14T06:01:47.469604+00:00"
+  "fetchedAt": "2026-08-14T07:51:26.278515+00:00"
 }
