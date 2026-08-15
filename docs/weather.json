@@ -24,7 +24,7 @@
       375,
       363,
       341,
-      341,
+      299,
       318,
       299,
       285,
@@ -325,7 +325,6 @@
       0
     ],
     "sunshine": [
-      540,
       330,
       280,
       140,
@@ -383,7 +382,6 @@
       0
     ],
     "dewPoint2m": [
-      68,
       85,
       98,
       112,
@@ -439,7 +437,6 @@
       120
     ],
     "surfacePressure": [
-      10103,
       10106,
       10111,
       10116,
@@ -495,7 +492,6 @@
       10163
     ],
     "humidity": [
-      185,
       236,
       287,
       342,
@@ -645,7 +641,7 @@
       0,
       0,
       0,
-      15,
+      0,
       15,
       16,
       16,
@@ -887,7 +883,7 @@
       1,
       4,
       8,
-      2,
+      4,
       3,
       3,
       3,
@@ -943,7 +939,6 @@
       4
     ],
     "icon1h": [
-      2,
       3,
       3,
       3,
@@ -1488,7 +1483,7 @@
       "windSpeed": 93,
       "windGust": 333,
       "windDirection": 2230,
-      "sunshine": 6420,
+      "sunshine": 6140,
       "sunrise": 1786767308000,
       "sunset": 1786819462000,
       "moonrise": 1786779436000,
@@ -1712,6 +1707,20 @@
   ],
   "warnings": [
     {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1786813080000.b39b7c5f-ae09-483f-9d97-24340f3c1079.MUL",
+      "type": 0,
+      "level": 3,
+      "start": 1786813200000,
+      "end": 1786816800000,
+      "bn": false,
+      "event": "STARKES GEWITTER",
+      "description": "Es treten Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 75 km/h (21 m/s, 41 kn, Bft 9).",
+      "descriptionText": "Es treten Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 75 km/h (21 m/s, 41 kn, Bft 9).",
+      "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "instruction": "Gefahr durch: Blitzschlag (Lebensgefahr!); einzelne herabstürzende Äste; umherfliegende Gegenstände. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; frei stehende Objekte sichern (z.B. Leinwände und Möbel); z.B. Zelte und Abdeckungen befestigen; im Freien auf herabfallende Gegenstände (z.B. Äste) achten",
+      "instructionHtml": "<b>Gefahr durch:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>einzelne herabstürzende Äste</li><li>umherfliegende Gegenstände</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>frei stehende Objekte sichern (z.B. Leinwände und Möbel)</li><li>z.B. Zelte und Abdeckungen befestigen</li><li>im Freien auf herabfallende Gegenstände (z.B. Äste) achten</li></ul>"
+    },
+    {
       "warnId": "2.49.0.0.276.0.DWD.PVW.1786778880000.377d1270-8979-4969-92d7-15074272a546.MUL",
       "type": 8,
       "level": 50,
@@ -1729,5 +1738,5 @@
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-15T16:52:48.280043+00:00"
+  "fetchedAt": "2026-08-15T17:22:48.559931+00:00"
 }
