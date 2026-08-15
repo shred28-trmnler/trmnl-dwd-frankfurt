@@ -23,7 +23,7 @@
       374,
       375,
       363,
-      363,
+      341,
       349,
       329,
       309,
@@ -325,7 +325,6 @@
       0
     ],
     "sunshine": [
-      600,
       540,
       480,
       370,
@@ -384,7 +383,6 @@
       0
     ],
     "dewPoint2m": [
-      62,
       68,
       85,
       94,
@@ -441,7 +439,6 @@
       121
     ],
     "surfacePressure": [
-      10103,
       10102,
       10107,
       10111,
@@ -498,7 +495,6 @@
       10165
     ],
     "humidity": [
-      157,
       177,
       222,
       264,
@@ -648,7 +644,7 @@
       0,
       0,
       0,
-      12,
+      0,
       14,
       12,
       15,
@@ -890,7 +886,7 @@
       1,
       1,
       4,
-      2,
+      8,
       2,
       2,
       2,
@@ -947,7 +943,6 @@
       3
     ],
     "icon1h": [
-      2,
       2,
       2,
       2,
@@ -1493,7 +1488,7 @@
       "windSpeed": 93,
       "windGust": 370,
       "windDirection": 2230,
-      "sunshine": 6900,
+      "sunshine": 6590,
       "sunrise": 1786767308000,
       "sunset": 1786819462000,
       "moonrise": 1786779436000,
@@ -1717,11 +1712,11 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1786807020000.2ee8d2ba-68b3-44f9-8e28-4caa4b85d92b.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1786811040000.8dec3e55-4864-4a5e-9be2-79cddf9f4070.MUL",
       "type": 0,
       "level": 3,
-      "start": 1786807020000,
-      "end": 1786809600000,
+      "start": 1786809660000,
+      "end": 1786813200000,
       "bn": false,
       "event": "STARKES GEWITTER",
       "description": "Es treten Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 75 km/h (21 m/s, 41 kn, Bft 9).",
@@ -1748,5 +1743,5 @@
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-15T15:46:47.863718+00:00"
+  "fetchedAt": "2026-08-15T16:28:03.896141+00:00"
 }
