@@ -14,7 +14,7 @@
       189,
       182,
       209,
-      226,
+      222,
       244,
       259,
       274,
@@ -325,7 +325,6 @@
       4
     ],
     "sunshine": [
-      30,
       180,
       320,
       470,
@@ -393,7 +392,6 @@
       0
     ],
     "dewPoint2m": [
-      154,
       153,
       148,
       146,
@@ -459,7 +457,6 @@
       159
     ],
     "surfacePressure": [
-      10147,
       10148,
       10148,
       10145,
@@ -525,7 +522,6 @@
       10100
     ],
     "humidity": [
-      638,
       569,
       504,
       455,
@@ -675,7 +671,7 @@
       0,
       0,
       0,
-      13,
+      0,
       13,
       12,
       12,
@@ -917,7 +913,7 @@
       4,
       4,
       1,
-      2,
+      1,
       2,
       2,
       2,
@@ -983,7 +979,6 @@
       7
     ],
     "icon1h": [
-      2,
       2,
       2,
       2,
@@ -1538,7 +1533,7 @@
       "windSpeed": 111,
       "windGust": 426,
       "windDirection": 2760,
-      "sunshine": 5650,
+      "sunshine": 5930,
       "sunrise": 1786853797000,
       "sunset": 1786905749000,
       "moonrise": 1786870468000,
@@ -1762,16 +1757,16 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1786778880000.377d1270-8979-4969-92d7-15074272a546.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1786865100000.3698ea02-3ee2-404d-b68f-935b126c1d6c.MUL",
       "type": 8,
       "level": 50,
-      "start": 1786784400000,
+      "start": 1786870800000,
       "end": 1786899600000,
       "altitudeEnd": 200,
       "bn": false,
       "event": "STARKE HITZE",
-      "description": "\nAm Samstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Sonntag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 2. Tag der Warnsituation in Folge.\n",
-      "descriptionText": "\nAm Samstag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nAm Sonntag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 2. Tag der Warnsituation in Folge.\n",
+      "description": "\nAm Sonntag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 3. Tag der Warnsituation in Folge.\n",
+      "descriptionText": "\nAm Sonntag wird eine starke Wärmebelastung erwartet.\nMit einer zusätzlichen Belastung aufgrund verringerter nächtlicher Abkühlung ist insbesondere im dicht bebauten Stadtgebiet von Frankfurt am Main zu rechnen.\nHeute ist der 3. Tag der Warnsituation in Folge.\n",
       "headline": "Amtliche WARNUNG vor HITZE",
       "instruction": "Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl.",
       "instructionHtml": "<p>Hitzebelastung kann für den menschlichen Körper gefährlich werden und zu einer Vielzahl von gesundheitlichen Problemen führen. Vermeiden Sie nach Möglichkeit die Hitze, trinken Sie ausreichend Wasser und halten Sie die Innenräume kühl</p>"
@@ -1779,5 +1774,5 @@
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-16T07:04:05.377582+00:00"
+  "fetchedAt": "2026-08-16T07:45:37.857139+00:00"
 }
