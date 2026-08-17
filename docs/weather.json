@@ -1578,7 +1578,7 @@
       "windSpeed": 222,
       "windGust": 463,
       "windDirection": 2300,
-      "sunshine": 0,
+      "sunshine": 470,
       "sunrise": 1787026777000,
       "sunset": 1787078319000,
       "moonrise": 1787052315000,
@@ -1803,5 +1803,5 @@
   "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-17T22:42:14.588782+00:00"
+  "fetchedAt": "2026-08-17T23:01:59.697842+00:00"
 }
