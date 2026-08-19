@@ -1692,21 +1692,21 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1787171280000.5176530c-a875-4fe8-a2d7-70f36148168f.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1787172120000.bcebb5ff-152b-4ad5-8304-ca7d170204b3.MUL",
       "type": 0,
       "level": 3,
-      "start": 1787171280000,
+      "start": 1787171640000,
       "end": 1787174100000,
       "bn": false,
       "event": "STARKES GEWITTER",
-      "description": "Von Südwesten ziehen örtlich Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 80 km/h (22 m/s, 44 kn, Bft 9) sowie Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde.",
-      "descriptionText": "Von Südwesten ziehen örtlich Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 80 km/h (22 m/s, 44 kn, Bft 9) sowie Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde.",
+      "description": "Von Westen ziehen örtlich Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 85 km/h (24 m/s, 47 kn, Bft 9) sowie Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde und kleinkörnigen Hagel.",
+      "descriptionText": "Von Westen ziehen örtlich Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 85 km/h (24 m/s, 47 kn, Bft 9) sowie Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde und kleinkörnigen Hagel.",
       "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
-      "instruction": "Gefahr durch: Blitzschlag (Lebensgefahr!); einzelne herabstürzende Äste; umherfliegende Gegenstände; vereinzelte, rasche Überflutungen von Straßen/Unterführungen; Aquaplaning. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; frei stehende Objekte sichern (z.B. Leinwände und Möbel); z.B. Zelte und Abdeckungen befestigen; im Freien auf herabfallende Gegenstände (z.B. Äste) achten; Verhalten im Straßenverkehr anpassen; überflutete und gefährdete Abschnitte (wie Unterführungen) meiden",
-      "instructionHtml": "<b>Gefahr durch:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>einzelne herabstürzende Äste</li><li>umherfliegende Gegenstände</li><li>vereinzelte, rasche Überflutungen von Straßen/Unterführungen</li><li>Aquaplaning</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>frei stehende Objekte sichern (z.B. Leinwände und Möbel)</li><li>z.B. Zelte und Abdeckungen befestigen</li><li>im Freien auf herabfallende Gegenstände (z.B. Äste) achten</li><li>Verhalten im Straßenverkehr anpassen</li><li>überflutete und gefährdete Abschnitte (wie Unterführungen) meiden</li></ul>"
+      "instruction": "Gefahr durch: Blitzschlag (Lebensgefahr!); einzelne herabstürzende Äste; umherfliegende Gegenstände; vereinzelte, rasche Überflutungen von Straßen/Unterführungen; Aquaplaning; Hagelschlag. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; frei stehende Objekte sichern (z.B. Leinwände und Möbel); z.B. Zelte und Abdeckungen befestigen; im Freien auf herabfallende Gegenstände (z.B. Äste) achten; Verhalten im Straßenverkehr anpassen; überflutete und gefährdete Abschnitte (wie Unterführungen) meiden",
+      "instructionHtml": "<b>Gefahr durch:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>einzelne herabstürzende Äste</li><li>umherfliegende Gegenstände</li><li>vereinzelte, rasche Überflutungen von Straßen/Unterführungen</li><li>Aquaplaning</li><li>Hagelschlag</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>frei stehende Objekte sichern (z.B. Leinwände und Möbel)</li><li>z.B. Zelte und Abdeckungen befestigen</li><li>im Freien auf herabfallende Gegenstände (z.B. Äste) achten</li><li>Verhalten im Straßenverkehr anpassen</li><li>überflutete und gefährdete Abschnitte (wie Unterführungen) meiden</li></ul>"
     }
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-19T20:31:13.519886+00:00"
+  "fetchedAt": "2026-08-19T21:04:17.893138+00:00"
 }
