@@ -25,7 +25,7 @@
       277,
       266,
       262,
-      242,
+      253,
       227,
       220,
       212,
@@ -270,7 +270,7 @@
       0,
       0,
       0,
-      9,
+      0,
       8,
       7,
       6,
@@ -325,7 +325,6 @@
       0
     ],
     "sunshine": [
-      160,
       130,
       70,
       40,
@@ -382,7 +381,6 @@
       0
     ],
     "dewPoint2m": [
-      181,
       182,
       178,
       176,
@@ -437,7 +435,6 @@
       130
     ],
     "surfacePressure": [
-      10028,
       10031,
       10036,
       10043,
@@ -492,7 +489,6 @@
       10138
     ],
     "humidity": [
-      688,
       758,
       771,
       799,
@@ -642,7 +638,7 @@
       0,
       0,
       0,
-      14,
+      0,
       14,
       14,
       15,
@@ -884,7 +880,7 @@
       4,
       4,
       4,
-      7,
+      4,
       19,
       19,
       19,
@@ -939,7 +935,6 @@
       3
     ],
     "icon1h": [
-      7,
       19,
       19,
       19,
@@ -1479,11 +1474,11 @@
       "dayDate": "2026-08-19",
       "temperatureMin": 183,
       "temperatureMax": 277,
-      "precipitation": 59,
+      "precipitation": 50,
       "windSpeed": 222,
       "windGust": 500,
       "windDirection": 2290,
-      "sunshine": 1260,
+      "sunshine": 1360,
       "sunrise": 1787113267000,
       "sunset": 1787164602000,
       "moonrise": 1787143142000,
@@ -1705,8 +1700,37 @@
       "icon2": null
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1787165220000.a5e440fc-6cb9-4465-8960-2163bd403b2f.MUL",
+      "type": 0,
+      "level": 4,
+      "start": 1787165220000,
+      "end": 1787171400000,
+      "bn": true,
+      "event": "SCHWERES GEWITTER mit ORKANBÖEN, HEFTIGEM STARKREGEN und HAGEL",
+      "description": "Von Westen ziehen örtlich Gewitter auf. Dabei gibt es Orkanböen mit Geschwindigkeiten zwischen 90 km/h (25 m/s, 48 kn, Bft 10) und 120 km/h (33 m/s, 64 kn, Bft 12) sowie heftigen Starkregen mit Niederschlagsmengen um 30 l/m² pro Stunde und Hagel mit Korngrößen um 3 cm.",
+      "descriptionText": "Von Westen ziehen örtlich Gewitter auf. Dabei gibt es Orkanböen mit Geschwindigkeiten zwischen 90 km/h (25 m/s, 48 kn, Bft 10) und 120 km/h (33 m/s, 64 kn, Bft 12) sowie heftigen Starkregen mit Niederschlagsmengen um 30 l/m² pro Stunde und Hagel mit Korngrößen um 3 cm.",
+      "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit ORKANBÖEN, HEFTIGEM STARKREGEN und HAGEL",
+      "instruction": "Große Gefahr durch: Blitzschlag (Lebensgefahr!); verbreitet umstürzende Bäume, Hochspannungsleitungen, Gerüste und andere, auch große Objekte; herabfallende Äste, Dachziegel und andere, auch große Gegenstände; Schäden an Gebäuden; rasche Überflutungen von Straßen/Unterführungen und Kellern; verbreitet Aquaplaning; mögliche Erdrutsche; Hagelschlag. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; auf erhebliche Beeinträchtigungen auf allen Verkehrswegen bis hin zu Sperrungen/Schließungen einstellen; wenn ausreichend Zeit bleibt: Gegenstände im Freien sichern oder abbauen; ausreichend Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen halten; alle Fenster und Türen schließen; überflutete und gefährdete Abschnitte meiden; ggf. vorbeugend Hochwasser-Schutzmaßnahmen treffen; bei drohender/bereits bestehender Überflutung Keller sofort verlassen; über Hochwasserlage unter www.hochwasserzentralen.de informieren",
+      "instructionHtml": "<b>Große Gefahr durch:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>verbreitet umstürzende Bäume, Hochspannungsleitungen, Gerüste und andere, auch große Objekte</li><li>herabfallende Äste, Dachziegel und andere, auch große Gegenstände</li><li>Schäden an Gebäuden</li><li>rasche Überflutungen von Straßen/Unterführungen und Kellern</li><li>verbreitet Aquaplaning</li><li>mögliche Erdrutsche</li><li>Hagelschlag</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>auf erhebliche Beeinträchtigungen auf allen Verkehrswegen bis hin zu Sperrungen/Schließungen einstellen</li></ul><br/><b>wenn ausreichend Zeit bleibt: Gegenstände im Freien sichern oder abbauen</b><ul><li>ausreichend Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen halten</li><li>alle Fenster und Türen schließen</li><li>überflutete und gefährdete Abschnitte meiden</li><li>ggf. vorbeugend Hochwasser-Schutzmaßnahmen treffen</li><li>bei drohender/bereits bestehender Überflutung Keller sofort verlassen</li><li>über Hochwasserlage unter www.hochwasserzentralen.de informieren</li></ul>"
+    },
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1787164320000.a6704927-3ff2-4719-a07a-429390a340e9.MUL",
+      "type": 0,
+      "level": 3,
+      "start": 1787164320000,
+      "end": 1787169600000,
+      "bn": false,
+      "event": "STARKES GEWITTER",
+      "description": "Von Westen ziehen örtlich Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten zwischen 80 km/h (22 m/s, 44 kn, Bft 9) und 100 km/h (28 m/s, 55 kn, Bft 10) sowie Starkregen mit Niederschlagsmengen um 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+      "descriptionText": "Von Westen ziehen örtlich Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten zwischen 80 km/h (22 m/s, 44 kn, Bft 9) und 100 km/h (28 m/s, 55 kn, Bft 10) sowie Starkregen mit Niederschlagsmengen um 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+      "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "instruction": "Gefahr durch: Blitzschlag (Lebensgefahr!); vereinzelt umstürzende Bäume; herabstürzende Gegenstände; vereinzelte, rasche Überflutungen von Straßen/Unterführungen; Aquaplaning; Hagelschlag. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; Gerüste und frei stehende Objekte (z.B. Leinwände und Bühnen) sichern; z.B. Zelte und Abdeckungen befestigen, wenn möglich, rechtzeitig abbauen; im Freien auf herabfallende Gegenstände (z.B. große Äste, Dachziegel) achten und ggf. Schutz suchen; Verhalten im Straßenverkehr anpassen; überflutete und gefährdete Abschnitte (wie Unterführungen) meiden",
+      "instructionHtml": "<b>Gefahr durch:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>vereinzelt umstürzende Bäume</li><li>herabstürzende Gegenstände</li><li>vereinzelte, rasche Überflutungen von Straßen/Unterführungen</li><li>Aquaplaning</li><li>Hagelschlag</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>Gerüste und frei stehende Objekte (z.B. Leinwände und Bühnen) sichern</li><li>z.B. Zelte und Abdeckungen befestigen, wenn möglich, rechtzeitig abbauen</li><li>im Freien auf herabfallende Gegenstände (z.B. große Äste, Dachziegel) achten und ggf. Schutz suchen</li><li>Verhalten im Straßenverkehr anpassen</li><li>überflutete und gefährdete Abschnitte (wie Unterführungen) meiden</li></ul>"
+    }
+  ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-19T18:01:03.751038+00:00"
+  "fetchedAt": "2026-08-19T18:53:37.663764+00:00"
 }
