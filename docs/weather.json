@@ -1695,23 +1695,8 @@
       "icon2": null
     }
   ],
-  "warnings": [
-    {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1787164320000.a6704927-3ff2-4719-a07a-429390a340e9.MUL",
-      "type": 0,
-      "level": 3,
-      "start": 1787164320000,
-      "end": 1787169600000,
-      "bn": false,
-      "event": "STARKES GEWITTER",
-      "description": "Von Westen ziehen örtlich Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten zwischen 80 km/h (22 m/s, 44 kn, Bft 9) und 100 km/h (28 m/s, 55 kn, Bft 10) sowie Starkregen mit Niederschlagsmengen um 25 l/m² pro Stunde und kleinkörnigen Hagel.",
-      "descriptionText": "Von Westen ziehen örtlich Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten zwischen 80 km/h (22 m/s, 44 kn, Bft 9) und 100 km/h (28 m/s, 55 kn, Bft 10) sowie Starkregen mit Niederschlagsmengen um 25 l/m² pro Stunde und kleinkörnigen Hagel.",
-      "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
-      "instruction": "Gefahr durch: Blitzschlag (Lebensgefahr!); vereinzelt umstürzende Bäume; herabstürzende Gegenstände; vereinzelte, rasche Überflutungen von Straßen/Unterführungen; Aquaplaning; Hagelschlag. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; Gerüste und frei stehende Objekte (z.B. Leinwände und Bühnen) sichern; z.B. Zelte und Abdeckungen befestigen, wenn möglich, rechtzeitig abbauen; im Freien auf herabfallende Gegenstände (z.B. große Äste, Dachziegel) achten und ggf. Schutz suchen; Verhalten im Straßenverkehr anpassen; überflutete und gefährdete Abschnitte (wie Unterführungen) meiden",
-      "instructionHtml": "<b>Gefahr durch:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>vereinzelt umstürzende Bäume</li><li>herabstürzende Gegenstände</li><li>vereinzelte, rasche Überflutungen von Straßen/Unterführungen</li><li>Aquaplaning</li><li>Hagelschlag</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>Gerüste und frei stehende Objekte (z.B. Leinwände und Bühnen) sichern</li><li>z.B. Zelte und Abdeckungen befestigen, wenn möglich, rechtzeitig abbauen</li><li>im Freien auf herabfallende Gegenstände (z.B. große Äste, Dachziegel) achten und ggf. Schutz suchen</li><li>Verhalten im Straßenverkehr anpassen</li><li>überflutete und gefährdete Abschnitte (wie Unterführungen) meiden</li></ul>"
-    }
-  ],
+  "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-19T19:28:04.887677+00:00"
+  "fetchedAt": "2026-08-19T19:52:21.296770+00:00"
 }
