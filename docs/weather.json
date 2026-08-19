@@ -6,7 +6,7 @@
     "timeStep": 3600000,
     "temperature": [
       170,
-      181,
+      171,
       184,
       183,
       181,
@@ -251,7 +251,7 @@
     "windDirection": null,
     "windGust": null,
     "precipitationTotal": [
-      4,
+      5,
       1,
       1,
       0,
@@ -332,7 +332,6 @@
       0,
       0,
       0,
-      0,
       100,
       210,
       310,
@@ -401,7 +400,6 @@
       0
     ],
     "dewPoint2m": [
-      161,
       161,
       161,
       158,
@@ -476,7 +474,6 @@
     ],
     "surfacePressure": [
       10066,
-      10066,
       10069,
       10073,
       10078,
@@ -549,7 +546,6 @@
       10219
     ],
     "humidity": [
-      881,
       865,
       870,
       864,
@@ -699,7 +695,7 @@
     "cloudCoverTotal": [],
     "temperatureStd": [
       0,
-      11,
+      0,
       11,
       12,
       11,
@@ -941,7 +937,7 @@
       19
     ],
     "icon": [
-      7,
+      8,
       7,
       7,
       4,
@@ -1015,7 +1011,6 @@
       2
     ],
     "icon1h": [
-      7,
       7,
       7,
       4,
@@ -1574,7 +1569,7 @@
       "dayDate": "2026-08-20",
       "temperatureMin": 170,
       "temperatureMax": 248,
-      "precipitation": 6,
+      "precipitation": 7,
       "windSpeed": 222,
       "windGust": 482,
       "windDirection": 2330,
@@ -1803,5 +1798,5 @@
   "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-19T23:03:00.440103+00:00"
+  "fetchedAt": "2026-08-19T23:37:50.109416+00:00"
 }
