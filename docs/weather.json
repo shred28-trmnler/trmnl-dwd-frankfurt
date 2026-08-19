@@ -1514,11 +1514,11 @@
       "dayDate": "2026-08-19",
       "temperatureMin": 183,
       "temperatureMax": 248,
-      "precipitation": 75,
+      "precipitation": 67,
       "windSpeed": 222,
       "windGust": 537,
       "windDirection": 2290,
-      "sunshine": 0,
+      "sunshine": 1140,
       "sunrise": 1787113267000,
       "sunset": 1787164602000,
       "moonrise": 1787143142000,
@@ -1743,5 +1743,5 @@
   "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-19T10:37:34.827050+00:00"
+  "fetchedAt": "2026-08-19T11:02:27.751864+00:00"
 }
