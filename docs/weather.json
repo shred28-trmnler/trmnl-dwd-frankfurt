@@ -1572,7 +1572,7 @@
     {
       "stationId": null,
       "dayDate": "2026-08-20",
-      "temperatureMin": 166,
+      "temperatureMin": 170,
       "temperatureMax": 248,
       "precipitation": 6,
       "windSpeed": 222,
@@ -1800,23 +1800,8 @@
       "icon2": null
     }
   ],
-  "warnings": [
-    {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1787178060000.9616fd7c-9a57-4cfe-b98f-94ecf0f56f14.MUL",
-      "type": 0,
-      "level": 3,
-      "start": 1787178060000,
-      "end": 1787179500000,
-      "bn": false,
-      "event": "STARKES GEWITTER",
-      "description": "Es treten Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20 m/s, 38 kn, Bft 8) sowie Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde.",
-      "descriptionText": "Es treten Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20 m/s, 38 kn, Bft 8) sowie Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde.",
-      "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
-      "instruction": "Gefahr durch: Blitzschlag (Lebensgefahr!); einzelne herabstürzende Äste; umherfliegende Gegenstände; vereinzelte, rasche Überflutungen von Straßen/Unterführungen; Aquaplaning. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; frei stehende Objekte sichern (z.B. Leinwände und Möbel); z.B. Zelte und Abdeckungen befestigen; im Freien auf herabfallende Gegenstände (z.B. Äste) achten; Verhalten im Straßenverkehr anpassen; überflutete und gefährdete Abschnitte (wie Unterführungen) meiden",
-      "instructionHtml": "<b>Gefahr durch:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>einzelne herabstürzende Äste</li><li>umherfliegende Gegenstände</li><li>vereinzelte, rasche Überflutungen von Straßen/Unterführungen</li><li>Aquaplaning</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>frei stehende Objekte sichern (z.B. Leinwände und Möbel)</li><li>z.B. Zelte und Abdeckungen befestigen</li><li>im Freien auf herabfallende Gegenstände (z.B. Äste) achten</li><li>Verhalten im Straßenverkehr anpassen</li><li>überflutete und gefährdete Abschnitte (wie Unterführungen) meiden</li></ul>"
-    }
-  ],
+  "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-19T22:42:33.890984+00:00"
+  "fetchedAt": "2026-08-19T23:03:00.440103+00:00"
 }
