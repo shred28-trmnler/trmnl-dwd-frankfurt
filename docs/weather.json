@@ -1572,7 +1572,7 @@
     {
       "stationId": null,
       "dayDate": "2026-08-22",
-      "temperatureMin": 135,
+      "temperatureMin": 145,
       "temperatureMax": 203,
       "precipitation": 66,
       "windSpeed": 167,
@@ -1803,5 +1803,5 @@
   "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-21T22:42:13.836047+00:00"
+  "fetchedAt": "2026-08-21T23:02:19.518357+00:00"
 }
