@@ -1720,8 +1720,23 @@
       "icon2": null
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1787409300000.4cf3ab76-b1e9-4489-93b6-58ab55dd0f5c.MUL",
+      "type": 0,
+      "level": 2,
+      "start": 1787409300000,
+      "end": 1787411700000,
+      "bn": false,
+      "event": "GEWITTER",
+      "description": "Von Nordwesten ziehen einzelne Gewitter auf. Dabei gibt es Windböen mit Geschwindigkeiten bis 55 km/h (15 m/s, 30 kn, Bft 7).",
+      "descriptionText": "Von Nordwesten ziehen einzelne Gewitter auf. Dabei gibt es Windböen mit Geschwindigkeiten bis 55 km/h (15 m/s, 30 kn, Bft 7).",
+      "headline": "Amtliche WARNUNG vor GEWITTER",
+      "instruction": "Hinweis auf: Blitzschlag (Lebensgefahr!); umherfliegende leichte Gegenstände. \nHandlungsempfehlungen: \nAufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden); Gewässer meiden; lose Gegenstände sichern; z.B. Zelte und Abdeckungen befestigen",
+      "instructionHtml": "<b>Hinweis auf:</b><ul><li>Blitzschlag (Lebensgefahr!)</li><li>umherfliegende leichte Gegenstände</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Aufenthalt im Freien vermeiden oder Schutz suchen (z.B. in Gebäuden)</li><li>Gewässer meiden</li><li>lose Gegenstände sichern</li><li>z.B. Zelte und Abdeckungen befestigen</li></ul>"
+    }
+  ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-22T14:24:17.946970+00:00"
+  "fetchedAt": "2026-08-22T14:49:28.956196+00:00"
 }
