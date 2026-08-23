@@ -21,7 +21,7 @@
       189,
       198,
       207,
-      212,
+      217,
       214,
       212,
       206,
@@ -325,7 +325,6 @@
       1
     ],
     "sunshine": [
-      480,
       470,
       480,
       480,
@@ -386,7 +385,6 @@
       0
     ],
     "dewPoint2m": [
-      68,
       66,
       67,
       68,
@@ -445,7 +443,6 @@
       144
     ],
     "surfacePressure": [
-      10231,
       10228,
       10227,
       10227,
@@ -504,7 +501,6 @@
       10141
     ],
     "humidity": [
-      393,
       383,
       390,
       408,
@@ -654,7 +650,7 @@
       0,
       0,
       0,
-      9,
+      0,
       9,
       9,
       9,
@@ -896,7 +892,7 @@
       2,
       3,
       1,
-      2,
+      4,
       2,
       2,
       2,
@@ -955,7 +951,6 @@
       7
     ],
     "icon1h": [
-      2,
       2,
       2,
       2,
@@ -1498,12 +1493,12 @@
       "stationId": null,
       "dayDate": "2026-08-23",
       "temperatureMin": 83,
-      "temperatureMax": 214,
+      "temperatureMax": 217,
       "precipitation": 0,
       "windSpeed": 93,
       "windGust": 296,
       "windDirection": 3260,
-      "sunshine": 6730,
+      "sunshine": 6790,
       "sunrise": 1787459226000,
       "sunset": 1787509724000,
       "moonrise": 1787502782000,
@@ -1728,5 +1723,5 @@
   "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-23T14:00:50.985333+00:00"
+  "fetchedAt": "2026-08-23T14:40:55.480771+00:00"
 }
