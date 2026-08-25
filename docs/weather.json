@@ -327,7 +327,6 @@
     "sunshine": [
       0,
       0,
-      0,
       20,
       0,
       30,
@@ -396,7 +395,6 @@
     ],
     "dewPoint2m": [
       94,
-      94,
       97,
       103,
       103,
@@ -463,7 +461,6 @@
       176
     ],
     "surfacePressure": [
-      10128,
       10131,
       10134,
       10137,
@@ -531,7 +528,6 @@
       10111
     ],
     "humidity": [
-      633,
       629,
       625,
       631,
@@ -605,7 +601,7 @@
       false,
       false,
       false,
-      false,
+      true,
       true,
       true,
       true,
@@ -681,7 +677,7 @@
       0,
       0,
       0,
-      9,
+      0,
       9,
       10,
       12,
@@ -991,7 +987,6 @@
       7
     ],
     "icon1h": [
-      4,
       4,
       4,
       4,
@@ -1548,7 +1543,7 @@
       "windSpeed": 93,
       "windGust": 259,
       "windDirection": 710,
-      "sunshine": 470,
+      "sunshine": 480,
       "sunrise": 1787632206000,
       "sunset": 1787682279000,
       "moonrise": 1787679056000,
@@ -1773,5 +1768,5 @@
   "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-08-25T04:54:24.041705+00:00"
+  "fetchedAt": "2026-08-25T05:33:59.543883+00:00"
 }
