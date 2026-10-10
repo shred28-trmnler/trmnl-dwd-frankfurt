@@ -6,9 +6,9 @@
     "timeStep": 3600000,
     "temperature": [
       118,
-      120,
-      123,
-      124,
+      118,
+      117,
+      116,
       123,
       123,
       122,
@@ -251,9 +251,9 @@
     "windDirection": null,
     "windGust": null,
     "precipitationTotal": [
-      1,
-      1,
+      2,
       3,
+      2,
       3,
       4,
       4,
@@ -331,9 +331,6 @@
       0,
       0,
       0,
-      0,
-      0,
-      0,
       30,
       100,
       170,
@@ -401,9 +398,6 @@
       0
     ],
     "dewPoint2m": [
-      93,
-      94,
-      95,
       97,
       98,
       98,
@@ -475,9 +469,6 @@
       61
     ],
     "surfacePressure": [
-      10137,
-      10133,
-      10126,
       10121,
       10118,
       10115,
@@ -549,9 +540,6 @@
       10265
     ],
     "humidity": [
-      835,
-      825,
-      825,
       841,
       847,
       853,
@@ -699,9 +687,9 @@
     "cloudCoverTotal": [],
     "temperatureStd": [
       0,
-      9,
-      9,
-      10,
+      0,
+      0,
+      0,
       10,
       11,
       10,
@@ -941,8 +929,8 @@
       20
     ],
     "icon": [
-      7,
-      7,
+      8,
+      8,
       7,
       7,
       7,
@@ -1015,9 +1003,6 @@
       2
     ],
     "icon1h": [
-      7,
-      7,
-      7,
       7,
       7,
       7,
@@ -1574,7 +1559,7 @@
       "dayDate": "2026-10-10",
       "temperatureMin": 103,
       "temperatureMax": 159,
-      "precipitation": 26,
+      "precipitation": 28,
       "windSpeed": 241,
       "windGust": 445,
       "windDirection": 2500,
@@ -1803,5 +1788,5 @@
   "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-10-09T22:48:43.834473+00:00"
+  "fetchedAt": "2026-10-10T02:10:38.087860+00:00"
 }
