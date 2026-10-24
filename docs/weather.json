@@ -19,10 +19,10 @@
       93,
       98,
       115,
-      117,
-      122,
-      123,
-      120,
+      112,
+      119,
+      121,
+      118,
       115,
       107,
       101,
@@ -327,10 +327,6 @@
       1
     ],
     "sunshine": [
-      80,
-      100,
-      150,
-      170,
       190,
       170,
       100,
@@ -391,10 +387,6 @@
       0
     ],
     "dewPoint2m": [
-      22,
-      24,
-      26,
-      32,
       36,
       46,
       51,
@@ -453,10 +445,6 @@
       77
     ],
     "surfacePressure": [
-      10165,
-      10162,
-      10159,
-      10158,
       10154,
       10154,
       10151,
@@ -515,10 +503,6 @@
       10189
     ],
     "humidity": [
-      521,
-      512,
-      515,
-      549,
       583,
       660,
       711,
@@ -667,10 +651,10 @@
       0,
       0,
       0,
-      9,
-      9,
-      9,
-      9,
+      0,
+      0,
+      0,
+      0,
       10,
       9,
       11,
@@ -911,7 +895,7 @@
       4,
       4,
       4,
-      4,
+      3,
       4,
       4,
       4,
@@ -972,10 +956,6 @@
       7
     ],
     "icon1h": [
-      4,
-      4,
-      4,
-      4,
       4,
       7,
       7,
@@ -1518,12 +1498,12 @@
       "stationId": null,
       "dayDate": "2026-10-24",
       "temperatureMin": 75,
-      "temperatureMax": 123,
+      "temperatureMax": 121,
       "precipitation": 14,
       "windSpeed": 296,
       "windGust": 537,
       "windDirection": 2320,
-      "sunshine": 1000,
+      "sunshine": 1590,
       "sunrise": 1792821718000,
       "sunset": 1792858623000,
       "moonrise": 1792854775000,
@@ -1761,15 +1741,15 @@
       "instructionHtml": "<b>Gefahr durch:</b><ul><li>vereinzelte Überflutungen von Straßen/Unterführungen</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>Verhalten im Straßenverkehr anpassen</li><li>überflutete Abschnitte meiden</li></ul>"
     },
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1792771080000.f47bd684-3600-4c00-b397-78fad045cf76.MUL",
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1792853700000.39e3af5d-8136-45a4-97df-2639fc3ed916.MUL",
       "type": 1,
       "level": 2,
-      "start": 1792807200000,
-      "end": 1792850400000,
+      "start": 1792879200000,
+      "end": 1792947600000,
       "bn": false,
       "event": "WINDBÖEN",
-      "description": "Es treten Windböen mit Geschwindigkeiten um 55 km/h (15 m/s, 30 kn, Bft 7) aus südwestlicher Richtung auf. In Schauernähe sowie in exponierten Lagen muss mit Sturmböen um 65 km/h (18 m/s, 35 kn, Bft 8) gerechnet werden.",
-      "descriptionText": "Es treten Windböen mit Geschwindigkeiten um 55 km/h (15 m/s, 30 kn, Bft 7) aus südwestlicher Richtung auf. In Schauernähe sowie in exponierten Lagen muss mit Sturmböen um 65 km/h (18 m/s, 35 kn, Bft 8) gerechnet werden.",
+      "description": "Es treten Windböen mit Geschwindigkeiten bis 60 km/h (17 m/s, 33 kn, Bft 7) anfangs aus südlicher, später aus südwestlicher Richtung auf. In exponierten Lagen muss mit Sturmböen um 70 km/h (20 m/s, 38 kn, Bft 8) gerechnet werden.",
+      "descriptionText": "Es treten Windböen mit Geschwindigkeiten bis 60 km/h (17 m/s, 33 kn, Bft 7) anfangs aus südlicher, später aus südwestlicher Richtung auf. In exponierten Lagen muss mit Sturmböen um 70 km/h (20 m/s, 38 kn, Bft 8) gerechnet werden.",
       "headline": "Amtliche WARNUNG vor WINDBÖEN",
       "instruction": "Hinweis auf: umherfliegende leichte Gegenstände. \nHandlungsempfehlungen: \nlose Gegenstände sichern; z.B. Zelte und Abdeckungen befestigen",
       "instructionHtml": "<b>Hinweis auf:</b><ul><li>umherfliegende leichte Gegenstände</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>lose Gegenstände sichern</li><li>z.B. Zelte und Abdeckungen befestigen</li></ul>"
@@ -1777,5 +1757,5 @@
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-10-24T12:00:43.860991+00:00"
+  "fetchedAt": "2026-10-24T15:58:13.352508+00:00"
 }
