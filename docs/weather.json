@@ -6,10 +6,9 @@
     "timeStep": 3600000,
     "temperature": [
       62,
-      55,
-      49,
-      45,
-      41,
+      61,
+      68,
+      71,
       40,
       42,
       43,
@@ -296,7 +295,6 @@
       0,
       0,
       0,
-      0,
       3,
       4,
       4,
@@ -327,9 +325,6 @@
       2
     ],
     "sunshine": [
-      0,
-      0,
-      0,
       0,
       0,
       0,
@@ -403,11 +398,6 @@
       0
     ],
     "dewPoint2m": [
-      62,
-      55,
-      49,
-      44,
-      41,
       40,
       39,
       40,
@@ -479,11 +469,6 @@
       93
     ],
     "surfacePressure": [
-      10241,
-      10239,
-      10237,
-      10234,
-      10231,
       10229,
       10225,
       10224,
@@ -555,11 +540,6 @@
       10028
     ],
     "humidity": [
-      1000,
-      1000,
-      1000,
-      993,
-      1000,
       1000,
       979,
       979,
@@ -638,7 +618,6 @@
       false,
       false,
       false,
-      false,
       true,
       true,
       true,
@@ -707,11 +686,10 @@
     ],
     "cloudCoverTotal": [],
     "temperatureStd": [
-      9,
-      10,
-      12,
-      12,
-      13,
+      0,
+      0,
+      0,
+      0,
       13,
       13,
       14,
@@ -951,8 +929,7 @@
       21
     ],
     "icon": [
-      4,
-      4,
+      5,
       4,
       4,
       4,
@@ -1026,11 +1003,6 @@
       7
     ],
     "icon1h": [
-      4,
-      4,
-      4,
-      4,
-      4,
       4,
       4,
       4,
@@ -1586,12 +1558,12 @@
       "stationId": null,
       "dayDate": "2026-11-09",
       "temperatureMin": 40,
-      "temperatureMax": 69,
+      "temperatureMax": 71,
       "precipitation": 0,
       "windSpeed": 93,
       "windGust": 222,
       "windDirection": 720,
-      "sunshine": 0,
+      "sunshine": 210,
       "sunrise": 1794205720000,
       "sunset": 1794239394000,
       "moonrise": 1794207395000,
@@ -1816,5 +1788,5 @@
   "warnings": [],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-11-08T23:01:31.594815+00:00"
+  "fetchedAt": "2026-11-09T02:40:39.506158+00:00"
 }
