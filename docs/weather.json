@@ -6,9 +6,9 @@
     "timeStep": 3600000,
     "temperature": [
       13,
-      7,
-      7,
-      7,
+      0,
+      9,
+      -4,
       8,
       12,
       15,
@@ -356,9 +356,6 @@
       0,
       0,
       0,
-      0,
-      0,
-      0,
       10,
       0,
       10,
@@ -401,9 +398,6 @@
       0
     ],
     "dewPoint2m": [
-      -3,
-      -5,
-      -5,
       -4,
       -3,
       0,
@@ -475,9 +469,6 @@
       84
     ],
     "surfacePressure": [
-      10160,
-      10155,
-      10150,
       10145,
       10138,
       10135,
@@ -549,9 +540,6 @@
       9893
     ],
     "humidity": [
-      930,
-      917,
-      917,
       917,
       897,
       897,
@@ -699,9 +687,9 @@
     "cloudCoverTotal": [],
     "temperatureStd": [
       0,
-      13,
-      14,
-      13,
+      0,
+      0,
+      0,
       13,
       13,
       13,
@@ -941,9 +929,9 @@
       20
     ],
     "icon": [
-      2,
-      2,
-      4,
+      32767,
+      32767,
+      32767,
       4,
       4,
       4,
@@ -1015,9 +1003,6 @@
       7
     ],
     "icon1h": [
-      2,
-      2,
-      4,
       4,
       4,
       4,
@@ -1572,7 +1557,7 @@
     {
       "stationId": null,
       "dayDate": "2026-11-15",
-      "temperatureMin": 7,
+      "temperatureMin": -4,
       "temperatureMax": 93,
       "precipitation": 35,
       "windSpeed": 111,
@@ -1802,20 +1787,6 @@
   ],
   "warnings": [
     {
-      "warnId": "2.49.0.0.276.0.DWD.PVW.1794655920000.12bec56a-86f3-47ca-9e65-402bdcd5e864.MUL",
-      "type": 5,
-      "level": 2,
-      "start": 1794682800000,
-      "end": 1794726000000,
-      "bn": false,
-      "event": "FROST",
-      "description": "Es tritt leichter Frost bis -3 °C auf. Bei längerem Aufklaren sinken die Temperaturen auf Werte bis -6 °C.",
-      "descriptionText": "Es tritt leichter Frost bis -3 °C auf. Bei längerem Aufklaren sinken die Temperaturen auf Werte bis -6 °C.",
-      "headline": "Amtliche WARNUNG vor FROST",
-      "instruction": "Hinweis auf: mögliche Frostschäden. \nHandlungsempfehlungen: \nggf. Frostschutzmaßnahmen ergreifen",
-      "instructionHtml": "<b>Hinweis auf:</b><ul><li>mögliche Frostschäden</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>ggf. Frostschutzmaßnahmen ergreifen</li></ul>"
-    },
-    {
       "warnId": "2.49.0.0.276.0.DWD.PVW.1794661380000.3ec51098-20cf-41ac-ac7c-ba68ade91ca1.MUL",
       "type": 5,
       "level": 2,
@@ -1828,9 +1799,23 @@
       "headline": "Amtliche WARNUNG vor FROST",
       "instruction": "Hinweis auf: mögliche Frostschäden. \nHandlungsempfehlungen: \nggf. Frostschutzmaßnahmen ergreifen",
       "instructionHtml": "<b>Hinweis auf:</b><ul><li>mögliche Frostschäden</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>ggf. Frostschutzmaßnahmen ergreifen</li></ul>"
+    },
+    {
+      "warnId": "2.49.0.0.276.0.DWD.PVW.1794655920000.12bec56a-86f3-47ca-9e65-402bdcd5e864.MUL",
+      "type": 5,
+      "level": 2,
+      "start": 1794682800000,
+      "end": 1794726000000,
+      "bn": false,
+      "event": "FROST",
+      "description": "Es tritt leichter Frost bis -3 °C auf. Bei längerem Aufklaren sinken die Temperaturen auf Werte bis -6 °C.",
+      "descriptionText": "Es tritt leichter Frost bis -3 °C auf. Bei längerem Aufklaren sinken die Temperaturen auf Werte bis -6 °C.",
+      "headline": "Amtliche WARNUNG vor FROST",
+      "instruction": "Hinweis auf: mögliche Frostschäden. \nHandlungsempfehlungen: \nggf. Frostschutzmaßnahmen ergreifen",
+      "instructionHtml": "<b>Hinweis auf:</b><ul><li>mögliche Frostschäden</li></ul><br/><b>Handlungsempfehlungen:</b><ul><li>ggf. Frostschutzmaßnahmen ergreifen</li></ul>"
     }
   ],
   "forecastStart": null,
   "threeHourSummaries": null,
-  "fetchedAt": "2026-11-14T23:44:10.974791+00:00"
+  "fetchedAt": "2026-11-15T03:09:02.345428+00:00"
 }
